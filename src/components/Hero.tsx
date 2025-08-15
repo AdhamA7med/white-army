@@ -15,7 +15,7 @@ const Hero = () => {
           </div>
           
           <h1 className="text-4xl md:text-6xl font-bold text-gray-800 mb-6 leading-tight">
-            <span className="text-gradient">الجيش الأبيض</span><br />
+            <span className="text-gradient">الامل</span><br />
             لخدمات التمريض ورعاية المسنين
           </h1>
           
@@ -26,14 +26,14 @@ const Hero = () => {
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <a 
-              href="tel:01115536294"
+              href="tel:01070717801"
               className="bg-gradient-to-r from-blue-600 to-blue-700 text-white px-8 py-4 rounded-full font-semibold hover:from-blue-700 hover:to-blue-800 transition-all duration-300 transform hover:scale-105 shadow-lg flex items-center gap-3"
             >
               <i className="fas fa-phone"></i>
               اتصل بنا الآن
             </a>
             <a 
-              href="https://wa.me/201115536294"
+              href="https://wa.me/201070717801"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-gradient-to-r from-green-600 to-green-700 text-white px-8 py-4 rounded-full font-semibold hover:from-green-700 hover:to-green-800 transition-all duration-300 transform hover:scale-105 shadow-lg flex items-center gap-3"
