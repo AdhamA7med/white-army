@@ -11,7 +11,7 @@ const Footer = () => {
                 <i className="fas fa-user-md text-white text-xl"></i>
               </div>
               <div>
-                <h1 className="text-xl font-bold">الامل</h1>
+                <h1 className="text-xl font-bold">رفقة</h1>
                 <p className="text-sm text-gray-400">خدمات التمريض ورعاية المسنين</p>
               </div>
             </div>
