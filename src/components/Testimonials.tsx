@@ -93,7 +93,7 @@ const Testimonials = () => {
             <h3 className="text-2xl font-bold mb-4">راضٍ عن خدمتنا؟</h3>
             <p className="mb-6">شاركنا رأيك واحصل على خصم خاص على الخدمة القادمة</p>
             <a 
-              href="https://wa.me/201044839343"
+              href="https://wa.me/201005210490"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white text-blue-600 px-6 py-3 rounded-full font-semibold hover:bg-gray-100 transition-all duration-300 inline-flex items-center gap-2"
