@@ -20,7 +20,7 @@ const Footer = () => {
             </p>
             <div className="flex space-x-4 space-x-reverse">
               <a 
-                href="https://wa.me/201005210490" 
+                href="https://wa.me/201101091946" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="bg-green-600 hover:bg-green-700 p-2 rounded-full transition-colors"
@@ -28,7 +28,7 @@ const Footer = () => {
                 <i className="fab fa-whatsapp"></i>
               </a>
               <a 
-                href="tel:01005210490"
+                href="tel:01101091946"
                 className="bg-blue-600 hover:bg-blue-700 p-2 rounded-full transition-colors"
               >
                 <i className="fas fa-phone"></i>
@@ -75,8 +75,8 @@ const Footer = () => {
                 <i className="fas fa-phone text-blue-400"></i>
                 <div>
                   <p className="text-sm text-gray-400">الهاتف الأول</p>
-                  <a href="tel:01005210490" className="text-white hover:text-blue-400 transition-colors">
-                    01005210490
+                  <a href="tel:01101091946" className="text-white hover:text-blue-400 transition-colors">
+                    01101091946
                   </a>
                 </div>
               </div>
@@ -84,8 +84,8 @@ const Footer = () => {
                 <i className="fas fa-phone text-green-400"></i>
                 <div>
                   <p className="text-sm text-gray-400">الهاتف الثاني</p>
-                  <a href="tel:01005210490" className="text-white hover:text-green-400 transition-colors">
-                    01005210490
+                  <a href="tel:01101091946" className="text-white hover:text-green-400 transition-colors">
+                    01101091946
                   </a>
                 </div>
               </div>
