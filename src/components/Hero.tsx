@@ -15,7 +15,7 @@ const Hero = () => {
           </div>
           
           <h1 className="text-4xl md:text-6xl font-bold text-gray-800 mb-6 leading-tight">
-            <span className="text-gradient">البدر</span><br />
+            <span className="text-gradient">Health and Care</span><br />
             لخدمات التمريض ورعاية المسنين
           </h1>
           
