@@ -26,14 +26,14 @@ const Hero = () => {
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <a 
-              href="tel:01005210490"
+              href="tel:01101091946"
               className="bg-gradient-to-r from-blue-600 to-blue-700 text-white px-8 py-4 rounded-full font-semibold hover:from-blue-700 hover:to-blue-800 transition-all duration-300 transform hover:scale-105 shadow-lg flex items-center gap-3"
             >
               <i className="fas fa-phone"></i>
               اتصل بنا الآن
             </a>
             <a 
-              href="https://wa.me/201005210490"
+              href="https://wa.me/201101091946"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-gradient-to-r from-green-600 to-green-700 text-white px-8 py-4 rounded-full font-semibold hover:from-green-700 hover:to-green-800 transition-all duration-300 transform hover:scale-105 shadow-lg flex items-center gap-3"
