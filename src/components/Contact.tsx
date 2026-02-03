@@ -29,8 +29,8 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold text-gray-800">الهاتف الأول</h4>
-                    <a href="tel:01005210490" className="text-blue-600 hover:text-blue-800 transition-colors">
-                      01005210490
+                    <a href="tel:01101091946" className="text-blue-600 hover:text-blue-800 transition-colors">
+                      01101091946
                     </a>
                   </div>
                 </div>
@@ -41,8 +41,8 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold text-gray-800">الهاتف الثاني</h4>
-                    <a href="tel:01005210490" className="text-green-600 hover:text-green-800 transition-colors">
-                      01005210490
+                    <a href="tel:01101091946" className="text-green-600 hover:text-green-800 transition-colors">
+                      01101091946
                     </a>
                   </div>
                 </div>
@@ -54,12 +54,12 @@ const Contact = () => {
                   <div>
                     <h4 className="font-semibold text-gray-800">واتساب</h4>
                     <a 
-                      href="https://wa.me/201005210490" 
+                      href="https://wa.me/201101091946" 
                       target="_blank" 
                       rel="noopener noreferrer"
                       className="text-green-600 hover:text-green-800 transition-colors"
                     >
-                      01005210490
+                      01101091946
                     </a>
                   </div>
                 </div>
@@ -103,7 +103,7 @@ const Contact = () => {
                     اتصل الآن
                   </a>
                   <a 
-                    href="https://wa.me/201005210490"
+                    href="https://wa.me/201101091946"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="bg-gradient-to-r from-green-600 to-green-700 text-white p-4 rounded-xl font-semibold hover:from-green-700 hover:to-green-800 transition-all duration-300 transform hover:scale-105 shadow-lg flex items-center justify-center gap-3"
